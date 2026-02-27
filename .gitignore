@@ -1,0 +1,36 @@
+# Root gitignore for dncbabaexpress PERN app
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+backend/dist/
+backend/build/
+frontend/build/
+
+# Env & local config
+.env
+backend/.env
+frontend/.env
+.env.local
+.env.*.local
+
+# Uploads / local assets
+backend/uploads/
+
+# Logs
+logs/
+*.log
+backend/logs/
+frontend/logs/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
