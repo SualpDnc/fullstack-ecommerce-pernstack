@@ -3,6 +3,14 @@
 Modern bir **PostgreSQL – Express – React – Node.js (PERN)** e‑ticaret demosu.  
 Kullanıcılar ürünleri görüntüleyebilir, sepete ekleyebilir ve sahte ödeme ile sipariş akışını tamamlayabilir; admin kullanıcılar ise ürün ekleyip silebilir.
 
+<img width="1919" height="853" alt="Image" src="https://github.com/user-attachments/assets/30b1ac4b-7c4f-4b28-8c26-45f316ba05de" />
+
+<img width="1914" height="836" alt="Image" src="https://github.com/user-attachments/assets/b638eb19-4850-49a5-bd65-f0de3d075110" />
+
+<img width="1919" height="853" alt="Image" src="https://github.com/user-attachments/assets/f5307ad0-f848-4c7b-8772-3c49e61499d8" />
+
+<img width="1919" height="860" alt="Image" src="https://github.com/user-attachments/assets/6fd2cd01-fc4e-4a63-80c2-bae7eb9f3006" />
+
 ## Özellikler
 
 - **Kimlik Doğrulama**
